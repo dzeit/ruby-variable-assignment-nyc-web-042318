@@ -1,4 +1,4 @@
-greeting = "Hello World!"
+greeting = "Hello World"
 
 def greeting
  
