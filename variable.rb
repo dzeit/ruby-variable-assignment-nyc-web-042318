@@ -1,6 +1,5 @@
 def greeting
-  puts "Hello World!" 
-  
+ 
 end 
   
   # Define a local variable called 'greeting',
